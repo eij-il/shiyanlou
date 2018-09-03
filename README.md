@@ -1,2 +1,2 @@
 # shiyanlou
-leran sth.
+learn sth.
